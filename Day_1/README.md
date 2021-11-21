@@ -14,12 +14,16 @@
 - 0 ≤ K ≤ N/20 ≤ K ≤ N/2.
 
 ## Sample Test Case
+```cpp
 2
 5 1
 ABCAA
 4 2
 ABAA
+```
 
 ## Output For Sample Input
+```cpp
 0
 1
+```
