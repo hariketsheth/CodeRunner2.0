@@ -1,10 +1,10 @@
 # Missing Launch Codes
-ISRO is launching a rocket today. In order to do so they need the launch codes.
-Launch Codes consist of a grid of alphabets and blocked characters. A code in the grid of launch codes is defined as maximal vertical or horizontal segments of letters. 
-All codes are palindromes. Blocked characters are those cells in the grid which cannot be used to form a code.
-Let L(i,j) represent the character on the i-th row and j-th column (where the top left corner is L(1,1)).
-The launch code grid has R rows and C columns. Unfortunately some of the letters in the grid were lost. 
-Using the property that the codes are palindromes, you must restore the maximum possible missing letters in the grid.
+> ISRO is launching a rocket today. In order to do so they need the launch codes.
+> Launch Codes consist of a grid of alphabets and blocked characters. A code in the grid of launch codes is defined as maximal vertical or horizontal segments of letters. 
+> All codes are palindromes. Blocked characters are those cells in the grid which cannot be used to form a code.
+> Let L(i,j) represent the character on the i-th row and j-th column (where the top left corner is L(1,1)).
+> The launch code grid has R rows and C columns. Unfortunately some of the letters in the grid were lost. 
+> Using the property that the codes are palindromes, you must restore the maximum possible missing letters in the grid.
 
 ## Input Format
 The first line of the input gives the number of test cases, T. T test cases follow. The first line of each test case contains two integers, R and C, 
